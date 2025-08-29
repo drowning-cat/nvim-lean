@@ -1,0 +1,7 @@
+{
+  "Vim Print": {
+    "prefix": "vp",
+    "body": "vim.print($0)"
+  }
+}
+
