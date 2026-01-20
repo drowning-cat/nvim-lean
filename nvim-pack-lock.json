@@ -1,0 +1,56 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "rev": "b137f63d89d0285ca76eed12e1923220e0aff8c1",
+      "src": "https://github.com/Saghen/blink.cmp",
+      "version": "'main'"
+    },
+    "mason.nvim": {
+      "rev": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65",
+      "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "mini.hues": {
+      "rev": "fe3e91165fd97ad0e13717d5301b608843c4ab5e",
+      "src": "https://github.com/nvim-mini/mini.hues"
+    },
+    "mini.nvim": {
+      "rev": "9b935c218ddba02e5dc75c94f90143bce1f7c646",
+      "src": "https://github.com/nvim-mini/mini.nvim",
+      "version": "'main'"
+    },
+    "nvim-dap": {
+      "rev": "085386b9359ddf8d76ad89b98973b8e332dc5ba3",
+      "src": "https://github.com/mfussenegger/nvim-dap"
+    },
+    "nvim-dap-view": {
+      "rev": "9492aef2994d86887cee040a5057ce6ad3960d7a",
+      "src": "https://github.com/igorlfs/nvim-dap-view"
+    },
+    "nvim-dap-virtual-text": {
+      "rev": "fbdb48c2ed45f4a8293d0d483f7730d24467ccb6",
+      "src": "https://github.com/theHamsta/nvim-dap-virtual-text"
+    },
+    "nvim-lspconfig": {
+      "rev": "f7e7504bf1792bcfcdf72b52eceacdb3fcce1e32",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    },
+    "nvim-treesitter": {
+      "rev": "568ede7e79172a0fe7c9d631454a97ad968deaf2",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "version": "'main'"
+    },
+    "nvim-treesitter-textobjects": {
+      "rev": "52bda74e087034408e2d563cb4499c1601038f9d",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter-textobjects",
+      "version": "'main'"
+    },
+    "render-markdown.nvim": {
+      "rev": "c54380dd4d8d1738b9691a7c349ecad7967ac12e",
+      "src": "https://github.com/MeanderingProgrammer/render-markdown.nvim"
+    },
+    "tokyonight.nvim": {
+      "rev": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd",
+      "src": "https://github.com/folke/tokyonight.nvim"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+-- local pack = require("util.pack")
+--
+-- pack.later(function()
+--   local MiniKeymap = require("mini.keymap")
+--   -- Auto tags
+--   MiniKeymap.map_combo("i", ">", function()
+--     local row, col = unpack(vim.api.nvim_win_get_cursor(0))
+--     local line = vim.api.nvim_get_current_line()
+--     if line:sub(col + 1, col + 1) == "<" then
+--       return
+--     end
+--     local tag = line:sub(1, col):match("<([%l%d:%-]+)[^<>]*>$")
+--     if not tag then
+--       return
+--     end
+--     local close = ("</%s>"):format(tag)
+--     row = row - 1
+--     vim.api.nvim_buf_set_text(0, row, col, row, col, { close })
+--   end)
+-- end)
